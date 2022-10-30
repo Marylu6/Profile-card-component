@@ -1,0 +1,962 @@
+body {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    background-image: url("images/background.png");
+
+}
+
+#mainBox {
+
+    margin-top: 160px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px 2px;
+    width: 25%;
+    background-color: white;
+    text-align: center;
+    font-size: 1rem;
+    font-family: 'Kumbh Sans', sans-serif;
+    border-radius: 5%;
+
+}
+
+#name {
+    margin-top: 40px;
+    padding-top: 40px;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.secondText {
+    margin-top: -4px;
+}
+
+.numbers {
+    margin-top: 0;
+    padding-top: 40px;
+    font-size: 1.2rem;
+    word-spacing: 80px;
+    font-weight: bold;
+}
+
+
+.thirdText {
+    word-spacing: 70px;
+}
+
+
+
+.cardBG {
+    margin-top: -50px;
+    margin-left: -32px;
+    margin-right: 90px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    width: 118.2%;
+
+    border-radius: 8% 8% 0% 0%;
+}
+
+.vicPic {
+    border: white 5px solid;
+    border-radius: 50%;
+    margin-top: -50px;
+}
+
+#cardy {
+
+    margin: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+/*1 done*/
+@media (max-width: 1281px) {
+    body {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin: 0;
+        padding: 0;
+        background-image: url("images/background.png");
+
+    }
+
+    #mainBox {
+
+        margin-top: 160px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 20px 20px;
+        width: 30%;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        font-size: 1rem;
+        font-family: 'Kumbh Sans', sans-serif;
+        border-radius: 5%;
+
+    }
+
+    #name {
+        margin-top: 40px;
+        padding-top: 40px;
+        font-size: 1.2rem;
+        font-weight: bold;
+    }
+
+    .secondText {
+        margin-top: -4px;
+    }
+
+    .numbers {
+        margin-top: 0;
+        padding-top: 40px;
+        font-size: 1.2rem;
+        word-spacing: 80px;
+        font-weight: bold;
+    }
+
+
+    .thirdText {
+        word-spacing: 70px;
+    }
+
+
+
+    .cardBG {
+        margin-top: -50px;
+        margin-left: -50px;
+        margin-right: 90px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        width: 134.7%;
+        border-radius: 8% 8% 0% 0%;
+    }
+
+    .vicPic {
+        border: white 5px solid;
+        border-radius: 50%;
+        margin-top: -50px;
+    }
+
+    #cardy {
+
+        margin: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+
+}
+
+
+/*2 done*/
+
+@media (max-width: 1027px) {
+    body {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin: 0;
+        padding: 0;
+        background-image: url("images/background.png");
+
+    }
+
+    #mainBox {
+
+        margin-top: 70px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 20px 20px;
+        width: 30%;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        font-size: 1rem;
+        font-family: 'Kumbh Sans', sans-serif;
+        border-radius: 5%;
+
+    }
+
+    #name {
+        margin-top: 40px;
+        padding-top: 40px;
+        font-size: 1.2rem;
+        font-weight: bold;
+    }
+
+    .secondText {
+        margin-top: -4px;
+    }
+
+    .numbers {
+        margin-top: 0;
+        padding-top: 40px;
+        font-size: 1.2rem;
+        word-spacing: 80px;
+        font-weight: bold;
+    }
+
+
+    .thirdText {
+        word-spacing: 70px;
+    }
+
+
+
+    .cardBG {
+        margin-top: -50px;
+        margin-left: -50px;
+        margin-right: 90px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        width: 148.6%;
+        border-radius: 8% 8% 0% 0%;
+    }
+
+    .vicPic {
+        border: white 5px solid;
+        border-radius: 50%;
+        margin-top: -50px;
+    }
+
+    #cardy {
+
+        margin: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+
+}
+
+
+
+
+/*3 done*/
+@media(max-width:913px) {
+
+
+    body {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin: 0;
+        padding: 0;
+        background-image: url("images/background.png");
+
+    }
+
+    #mainBox {
+
+        margin-top: 70px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 20px 20px;
+        width: 40%;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        font-size: 1rem;
+        font-family: 'Kumbh Sans', sans-serif;
+        border-radius: 5%;
+
+    }
+
+    #name {
+        margin-top: 40px;
+        padding-top: 40px;
+        font-size: 1.2rem;
+        font-weight: bold;
+    }
+
+    .secondText {
+        margin-top: -4px;
+    }
+
+    .numbers {
+        margin-top: 0;
+        padding-top: 40px;
+        font-size: 1.2rem;
+        word-spacing: 80px;
+        font-weight: bold;
+    }
+
+
+    .thirdText {
+        word-spacing: 70px;
+    }
+
+
+
+    .cardBG {
+        margin-top: -50px;
+        margin-left: -50px;
+        margin-right: 90px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        width: 137.7%;
+        border-radius: 8% 8% 0% 0%;
+    }
+
+    .vicPic {
+        border: white 5px solid;
+        border-radius: 50%;
+        margin-top: -50px;
+    }
+
+    #cardy {
+
+        margin: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+
+}
+
+
+
+/*4 done*/
+@media(max-width:821px) {
+    body {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin: 0;
+        padding: 0;
+        background-image: url("images/background.png");
+
+    }
+
+    #mainBox {
+
+        margin-top: 70px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 20px 20px;
+        width: 50%;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        font-size: 1rem;
+        font-family: 'Kumbh Sans', sans-serif;
+        border-radius: 5%;
+
+    }
+
+    #name {
+        margin-top: 40px;
+        padding-top: 40px;
+        font-size: 1.2rem;
+        font-weight: bold;
+    }
+
+    .secondText {
+        margin-top: -4px;
+    }
+
+    .numbers {
+        margin-top: 0;
+        padding-top: 40px;
+        font-size: 1.2rem;
+        word-spacing: 80px;
+        font-weight: bold;
+    }
+
+
+    .thirdText {
+        word-spacing: 70px;
+    }
+
+
+
+    .cardBG {
+        margin-top: -50px;
+        margin-left: -50px;
+        margin-right: 90px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        width: 132%;
+        border-radius: 8% 8% 0% 0%;
+    }
+
+    .vicPic {
+        border: white 5px solid;
+        border-radius: 50%;
+        margin-top: -50px;
+    }
+
+    #cardy {
+
+        margin: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+/*5 done*/
+@media(max-width:769px) {
+    body {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin: 0;
+        padding: 0;
+        background-image: url("images/background.png");
+
+    }
+
+    #mainBox {
+
+        margin-top: 70px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 20px 20px;
+        width: 50%;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        font-size: 1rem;
+        font-family: 'Kumbh Sans', sans-serif;
+        border-radius: 5%;
+
+    }
+
+    #name {
+        margin-top: 40px;
+        padding-top: 40px;
+        font-size: 1.2rem;
+        font-weight: bold;
+    }
+
+    .secondText {
+        margin-top: -4px;
+    }
+
+    .numbers {
+        margin-top: 0;
+        padding-top: 40px;
+        font-size: 1.2rem;
+        word-spacing: 80px;
+        font-weight: bold;
+    }
+
+
+    .thirdText {
+        word-spacing: 70px;
+    }
+
+
+
+    .cardBG {
+        margin-top: -50px;
+        margin-left: -50px;
+        margin-right: 90px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        width: 135.3%;
+        border-radius: 8% 8% 0% 0%;
+    }
+
+    .vicPic {
+        border: white 5px solid;
+        border-radius: 50%;
+        margin-top: -50px;
+    }
+
+    #cardy {
+
+        margin: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+/*6 done*/
+@media(max-width:541px) {
+    body {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin: 0;
+        padding: 0;
+        background-image: url("images/background.png");
+
+    }
+
+    #mainBox {
+
+        margin-top: 70px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 20px 20px;
+        width: 60%;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        font-size: 1rem;
+        font-family: 'Kumbh Sans', sans-serif;
+        border-radius: 5%;
+
+    }
+
+    #name {
+        margin-top: 40px;
+        padding-top: 40px;
+        font-size: 1.2rem;
+        font-weight: bold;
+    }
+
+    .secondText {
+        margin-top: -4px;
+    }
+
+    .numbers {
+        margin-top: 0;
+        padding-top: 40px;
+        font-size: 1.2rem;
+        word-spacing: 80px;
+        font-weight: bold;
+    }
+
+
+    .thirdText {
+        word-spacing: 70px;
+    }
+
+
+
+    .cardBG {
+        margin-top: -50px;
+        margin-left: -50px;
+        margin-right: 90px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        width: 144.6%;
+        border-radius: 8% 8% 0% 0%;
+    }
+
+    .vicPic {
+        border: white 5px solid;
+        border-radius: 50%;
+        margin-top: -50px;
+    }
+
+    #cardy {
+
+        margin: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+}
+
+/*7 done*/
+@media (max-width: 415px) {
+    body {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin: 0;
+        padding: 0;
+        background-image: url("images/background.png");
+
+    }
+
+    #mainBox {
+
+        margin-top: 70px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 20px 20px;
+        width: 80%;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        font-size: 1rem;
+        font-family: 'Kumbh Sans', sans-serif;
+        border-radius: 5%;
+
+    }
+
+    #name {
+        margin-top: 40px;
+        padding-top: 40px;
+        font-size: 1.2rem;
+        font-weight: bold;
+    }
+
+    .secondText {
+        margin-top: -4px;
+    }
+
+    .numbers {
+        margin-top: 0;
+        padding-top: 40px;
+        font-size: 1.2rem;
+        word-spacing: 80px;
+        font-weight: bold;
+    }
+
+
+    .thirdText {
+        word-spacing: 70px;
+    }
+
+
+
+    .cardBG {
+        margin-top: -50px;
+        margin-left: -50px;
+        margin-right: 90px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        width: 143.6%;
+        border-radius: 8% 8% 0% 0%;
+    }
+
+    .vicPic {
+        border: white 5px solid;
+        border-radius: 50%;
+        margin-top: -50px;
+    }
+
+    #cardy {
+
+        margin: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+
+}
+
+
+/*8 done*/
+@media(max-width:394px) {
+    body {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin: 0;
+        padding: 0;
+        background-image: url("images/background.png");
+
+    }
+
+    #mainBox {
+
+        margin-top: 70px;
+        margin-bottom: 20px;
+        margin-left: -15px;
+        margin-right: 20px;
+        padding: 20px 20px;
+        width: 80%;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        font-size: 1rem;
+        font-family: 'Kumbh Sans', sans-serif;
+        border-radius: 5%;
+
+    }
+
+    #name {
+        margin-top: 40px;
+        padding-top: 40px;
+        font-size: 1.2rem;
+        font-weight: bold;
+    }
+
+    .secondText {
+        margin-top: -4px;
+    }
+
+    .numbers {
+        margin-top: 0;
+        padding-top: 40px;
+        font-size: 1.2rem;
+        word-spacing: 80px;
+        font-weight: bold;
+    }
+
+
+    .thirdText {
+        word-spacing: 70px;
+    }
+
+
+
+    .cardBG {
+        margin-top: -50px;
+        margin-left: -50px;
+        margin-right: 90px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        width: 147%;
+        border-radius: 8% 8% 0% 0%;
+    }
+
+    .vicPic {
+        border: white 5px solid;
+        border-radius: 50%;
+        margin-top: -50px;
+    }
+
+    #cardy {
+
+        margin: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+/*9 done*/
+@media(max-width:376px) {
+    body {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin: 0;
+        padding: 0;
+        background-image: url("images/background.png");
+
+    }
+
+    #mainBox {
+
+        margin-top: 70px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 20px 20px;
+        width: 80%;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        font-size: 1rem;
+        font-family: 'Kumbh Sans', sans-serif;
+        border-radius: 5%;
+
+    }
+
+    #name {
+        margin-top: 40px;
+        padding-top: 40px;
+        font-size: 1.2rem;
+        font-weight: bold;
+    }
+
+    .secondText {
+        margin-top: -4px;
+    }
+
+    .numbers {
+        margin-top: 0;
+        padding-top: 40px;
+        font-size: 1.2rem;
+        word-spacing: 80px;
+        font-weight: bold;
+    }
+
+
+    .thirdText {
+        word-spacing: 70px;
+    }
+
+
+
+    .cardBG {
+        margin-top: -50px;
+        margin-left: -50px;
+        margin-right: 90px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        width: 150%;
+        border-radius: 8% 8% 0% 0%;
+    }
+
+    .vicPic {
+        border: white 5px solid;
+        border-radius: 50%;
+        margin-top: -50px;
+    }
+
+    #cardy {
+
+        margin: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+
+
+
+/*10 done*/
+@media(max-width:361px) {
+    body {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin: 0;
+        padding: 0;
+        background-image: url("images/background.png");
+
+    }
+
+    #mainBox {
+
+        margin-top: 70px;
+        margin-bottom: 20px;
+        margin-left: -42px;
+        margin-right: 20px;
+        padding: 20px 20px;
+        width: 80%;
+        background-color: rgb(255, 255, 255);
+        text-align: center;
+        font-size: 1rem;
+        font-family: 'Kumbh Sans', sans-serif;
+        border-radius: 5%;
+
+    }
+
+    #name {
+        margin-top: 40px;
+        padding-top: 40px;
+        font-size: 1.2rem;
+        font-weight: bold;
+    }
+
+    .secondText {
+        margin-top: -4px;
+    }
+
+    .numbers {
+        margin-top: 0;
+        padding-top: 40px;
+        font-size: 1.2rem;
+        word-spacing: 80px;
+        font-weight: bold;
+    }
+
+
+    .thirdText {
+        word-spacing: 70px;
+    }
+
+
+
+    .cardBG {
+        margin-top: -50px;
+        margin-left: -50px;
+        margin-right: 90px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        width: 153%;
+        border-radius: 8% 8% 0% 0%;
+    }
+
+    .vicPic {
+        border: white 5px solid;
+        border-radius: 50%;
+        margin-top: -50px;
+    }
+
+    #cardy {
+
+        margin: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+
+/*11 difficult need to check later
+@media(max-width:281px) {
+    body {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        margin: 0;
+        padding: 0;
+        background-image: url("images/background.png");
+
+    }
+
+    #mainBox {
+
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 90px 50px;
+        width: 100%;
+        background-color: rgb(20, 83, 199);
+        text-align: center;
+        font-size: 1rem;
+        font-family: 'Kumbh Sans', sans-serif;
+        border-radius: 5%;
+
+    }
+
+    #name {
+        width: 6%;
+        margin-top: 40px;
+        padding-top: 40px;
+        font-size: 1.2rem;
+        font-weight: bold;
+    }
+
+    .secondText {
+
+        margin-top: -4px;
+    }
+
+    .numbers {
+        width: 6%;
+        margin-top: 0;
+        padding-top: 40px;
+        font-size: 1.0rem;
+        word-spacing: 80px;
+        font-weight: bold;
+    }
+
+
+    .thirdText {
+        word-spacing: 70px;
+    }
+
+
+
+    .cardBG {
+        margin-top: -50px;
+        margin-left: -50px;
+        margin-right: 90px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        width: 148.6%;
+        border-radius: 8% 8% 0% 0%;
+    }
+
+    .vicPic {
+        border: white 5px solid;
+        border-radius: 50%;
+        margin-top: -50px;
+    }
+
+    #cardy {
+
+        margin: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+*/
