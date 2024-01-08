@@ -1,6 +1,5 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - profile card component
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -39,4 +38,4 @@ still trying to make the process faster
 ## Author
 
 
-- Frontend Mentor - [@Marylu6](https://www.frontendmentor.io/profile/yourusername)
+
